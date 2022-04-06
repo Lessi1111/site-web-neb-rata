@@ -1,0 +1,82 @@
+
+nav img {
+  width: 120px;
+  height: 120px;
+  padding-top: -90px;
+  padding-left: 30px;
+}
+nav a {
+  text-decoration: none;
+  color: #5f9d31;
+  font-size: 25px;
+  font-family: "Open Sans", sans-serif;
+  border: #ffff 3px;
+  display: inline-block;
+  text-align: center;
+  padding-bottom: 15px;
+  margin-left: 80px;
+  padding-top: 20px;
+}
+nav {
+  padding-left: 10px;
+  width: 100%;
+  height: 100px;
+  display: block;
+}
+.col-4 {
+  background: no-repeat url("QSN.png") !important;
+  height: 400px;
+  display: flex;
+  align-items: center !important;
+  flex-direction: colum;
+}
+.col-6 {
+  margin-left: 10px;
+}
+.foot {
+  display: flex;
+  padding-top: 30px;
+  padding-left: 200px;
+}
+.foot h3 {
+  font-size: 20px;
+  font-family: "Open Sans", sans-serif;
+}
+.bloc a {
+  text-decoration: none;
+  display: block;
+  color: #fff;
+}
+.bloc {
+  padding-left: 70px;
+  color: #fff;
+}
+footer {
+  width: 100%;
+  height: 250px;
+  display: block;
+  background-color: #212529;
+  margin-top: 200px;
+}
+
+.carousel-caption {
+  background-color: black;
+  opacity: 0.2;
+}
+
+.carousel-container {
+  height: 200px !important;
+}
+body{
+  background-color: #ddd;
+}
+
+#owl-demo .item{
+  margin: 3px;
+}
+#owl-demo .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
